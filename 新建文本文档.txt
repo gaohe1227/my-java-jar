@@ -1,1 +1,1 @@
-ÃüÁî:java -jar myjdbc.jar -configfile jdbc.properties -overwrite
+java -jar myjdbc.jar -configfile jdbc.properties -overwrite
